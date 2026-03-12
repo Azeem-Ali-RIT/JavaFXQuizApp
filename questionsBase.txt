@@ -1,0 +1,80 @@
+Java is ______________ language?
+Programming, French, Hindi, Malayalam
+Programming
+
+Java is case sensitive 
+True, False
+True
+
+What is worst case heap complexity ?
+o(c), O(n), O(logn), O(log2n)
+O(log2n)
+
+Classes must not implement all abstract methods in all interfaces
+True, False
+False
+
+Where is JavaFX used?
+GUI, Interfaces, Tests, Instances
+GUI
+
+The static keyword in Java indicates that only one instance of the field or method exists for all objects of the class.
+True, False
+True
+
+Which method is used to retrieve the value of a private field in Java?
+setMethod(), getMethod(), accessMethod(), fetchMethod()
+getMethod()
+
+In Java, constructors must have the same name as the class.
+True, False
+True
+
+Which special method is automatically called when an object is printed?
+equals(), hashCode(), toString(), print()
+toString()
+
+he private access modifier allows access to class members from other classes within the same package.
+True, False
+False
+
+What is the default value assigned to a boolean field in a Java class?
+true, false, null, 0
+false
+
+Which keyword is used in Java to create a subclass from a parent class?
+implements, extends, inherits, super
+extends
+
+A subclass in Java can directly access the private members of the parent class.
+True, False
+False
+
+What is the correct way to call a parent class constructor from a subclass?
+this(), parent(), super(), base()
+super()
+
+A class can implement multiple interfaces in Java.
+True, False
+True
+
+What is the purpose of the @Override annotation in Java?
+allows access to private fields of the parent class, prevents the method from being inherited, indicates that a method is being overridden from the parent class, allows a class to inherit from multiple classes.
+indicates that a method is being overridden from the parent class
+
+Polymorphism allows a parent class reference to refer to an object of a subclass.
+True, False
+True
+
+Which data structure follows the First In, First Out (FIFO) principle?
+Stack, Queue, Array, Tree
+Queue
+
+An array-based queue requires resizing when the array is full.
+True, False
+True
+
+Which of the following is NOT an operation performed on a queue?
+Enqueue, Dequeue, Peek, Pop
+Pop
+
